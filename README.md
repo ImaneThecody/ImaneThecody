@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning software development
 - 💞️ I’m looking to collaborate on a project in an internship 
 - 📫 How to reach me through my email : fouadimane001@gmail.com
-- or through my phone : 212 6081422
+- or through my phone : 212 608281422
 
 
 <!---
